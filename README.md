@@ -60,4 +60,3 @@ TRAINING_CONFIG = {
 
 *Manuscript is currently under preparation and will be submitted for publication in the near future*
 
-```
