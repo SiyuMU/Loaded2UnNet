@@ -1,4 +1,4 @@
-# Load2UnNet
+# HeartUnloadNet
 
 Graph neural network for predicting unloaded cardiac geometry from end-diastolic meshes.
 
